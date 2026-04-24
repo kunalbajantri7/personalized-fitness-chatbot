@@ -1,0 +1,14 @@
+exercise,muscle_group,difficulty,goal,equipment,injury_safe
+bench_press,chest,intermediate,muscle_gain,gym,shoulder
+incline_dumbbell_press,chest,beginner,muscle_gain,dumbbell,none
+pushups,chest,beginner,fat_loss,bodyweight,none
+lat_pulldown,back,intermediate,muscle_gain,gym,none
+seated_row,back,beginner,muscle_gain,gym,none
+squats,legs,intermediate,muscle_gain,bodyweight,knee
+leg_press,legs,beginner,muscle_gain,gym,none
+shoulder_press,shoulders,intermediate,muscle_gain,dumbbell,shoulder
+lateral_raise,shoulders,beginner,muscle_gain,dumbbell,none
+bicep_curl,arms,beginner,muscle_gain,dumbbell,none
+tricep_pushdown,arms,beginner,muscle_gain,gym,none
+plank,core,beginner,fat_loss,bodyweight,none
+crunches,core,beginner,fat_loss,bodyweight,none
